@@ -1,0 +1,77 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Gulzar', serif;
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    
+}
+.name{
+    color: orange;
+}
+.continer{
+    display: flex;
+    padding-left: 10%;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.continer img{
+    width: 80%;
+    margin-top: 50px;
+}
+.continer .button{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.dream-big{
+    display: flex;
+    margin-top: 10%;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 10%;
+}
+.dream-big img{
+    width:60%;
+    padding-left: 10%;
+}
+.color{
+    color: orangered;
+}
+.Experiance-area{
+    display: flex;
+}
+.manu{
+    font-size: 30px;
+    margin-left: 20px;
+    font-weight: 600;
+    color: blue;
+}
+.half-width{
+       width: 60%;
+       margin-right: 5%;
+       margin-top: 50px;
+       padding-left: 20px;
+       padding-right: 20px;
+       box-shadow: 25px 25px 40px gray;
+       border-radius: 10px; 
+       border-left: 7px solid blue;  
+}
+.Experiance-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#developer{
+    border-left: 7px solid red;
+}
+.button{
+    text-decoration: none;
+    background-color: blue;
+    color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
